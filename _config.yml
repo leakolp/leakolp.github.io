@@ -15,13 +15,6 @@ author: Erin L. Kolp
 
 navbar-links:
   About Me: "aboutme"
-  Trans HRT Resources:
-    - Transgendercare: "https://web.archive.org/web/20160303092706/http://www.transgendercare.com/medical/resources/index.htm"
-    - DIY HRT: "https://diyhrt.github.io"
-    - HRT Cafe: "https://hrt.cafe"
-    - InHouse Pharmacy: "https://www.inhousepharmacy.vu/c-88-transgender.aspx"
-    - Planned Parenthood: "https://www.google.com/maps/d/u/1/viewer?mid=1DxyOTw8dI8n96BHFF2JVUMK7bXsRKtzA&ll=26.19982757169323%2C-113.38234069999999&z=3"
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -45,7 +38,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: erinlkolp
-  twitter: _iautomateitall
+  # twitter: _iautomateitall
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname

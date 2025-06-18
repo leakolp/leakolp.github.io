@@ -6,4 +6,4 @@ tags: [opensource, chef, ruby, cloudbees, jenkins]
 comments: false
 ---
 
-![image](/img/avatar-icon.png)
+![image](/assets/img/avatar-icon.png)
