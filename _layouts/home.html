@@ -6,6 +6,8 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
+{% include my-gallery.html folder="/assets/img/" %}
+
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
