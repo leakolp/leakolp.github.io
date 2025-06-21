@@ -28,6 +28,8 @@ round-avatar: false
 # then specify the following parameter
 #title-img: /path/to/image
 
+imagesurl: "/assets/img/"
+thumbsurl: "/assets/img/"
 
 # --- Footer social media links --- #
 
