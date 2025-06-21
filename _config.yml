@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Home
+title: Incantation Junction
 
 # Your name to show in the footer
 author: Erin L. Kolp
@@ -14,7 +14,7 @@ author: Erin L. Kolp
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -39,13 +39,13 @@ social-network-links:
 #  email: "erinlkolpfoss@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: erinlkolp
-  # twitter: _iautomateitall
+# github: erinlkolp
+# twitter: _iautomateitall
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: erinlkolp
+  # linkedin: erinlkolp
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,20 +64,20 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Incantation Junction
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  # twitter: true
 #  facebook: true
-  linkedin: true
+  # linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "erin.kolpfamily.io"
+url-pretty: "incantationjunction.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 60
